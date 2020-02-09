@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Favorit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_name">Nama film</string>
+    <string name="tv_name">Nama TV</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="name">movie</string>
+    <string name="image">gambar</string>
+    <string name="judul_film">Detail film</string>
+    <string name="judul_tv">Detail TV</string>
+    <string name="film">Film</string>
+    <string name="genre">genre</string>
+    <string name="deskripsi_tv">deskripsi TV</string>
+    <string name="deskripsi">deskripsi film</string>
+    <string name="image_rating">rating image</string>
+    <string name="rating">Peringkat</string>
+    <string name="image_time">image time</string>
+    <string name="time">Waktu</string>
+    <string name="Detail">detail</string>
+    <string name="tayang">Tanggal Tayang</string>
+    <string name="tayang_tv">Tayang Perdana</string>
+    <string name="average_movie">Rata - Rata</string>
+    <string name="origin">Negara Asal</string>
+    <string name="change_language_settings">Ubah Pengaturan bahasa</string>
+</resources>

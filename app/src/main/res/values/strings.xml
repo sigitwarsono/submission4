@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Catalogue </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="tv_name">TV Name</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV show</string>
+    <string name="tab_text_4">Movie Favorite</string>
+    <string name="tab_text_3">TV Favorite</string>
+    <string name="name">movie</string>
+    <string name="image">gambar</string>
+    <string name="judul_film">Movie Details</string>
+    <string name="judul_tv">TV Details</string>
+    <string name="film">Film</string>
+    <string name="genre">genre</string>
+    <string name="deskripsi_tv">description TV</string>
+    <string name="deskripsi">description movie</string>
+    <string name="image_rating">rating image</string>
+    <string name="rating">Rating</string>
+    <string name="image_time">image time</string>
+    <string name="time">time</string>
+    <string name="Detail">Details</string>
+    <string name="tayang">Release Date</string>
+    <string name="tayang_tv">Release Launch</string>
+    <string name="average_movie">Average</string>
+    <string name="origin">Origin Country</string>
+    <string name="change_language_settings">change language settings</string>
+</resources>
